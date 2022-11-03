@@ -1,6 +1,6 @@
 # README #
 
-Dev Ops Test consists of two parts: An API and a front end React Application
+Dev Ops learning app consists of two parts: An API and a front end React Application
 
 ### Back End Setup ###
 You can run the application without the database
